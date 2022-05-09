@@ -1,1 +1,2 @@
-This is first Github session
+This is first Github session.
+Hi
