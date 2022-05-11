@@ -1,2 +1,3 @@
 Merging strategies
 fast example
+3-way merge
